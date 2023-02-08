@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/mattenotes/static/js/main.a2240b97.js",
+    "static/media/strukturer.png": "/mattenotes/static/media/strukturer.213547ae9ca49cc9e90d.png",
+    "static/media/firkant.png": "/mattenotes/static/media/firkant.f1cb4e66a0ed4e1eceb6.png",
+    "static/media/typiskefeil.png": "/mattenotes/static/media/typiskefeil.ffc748a511e095014fb2.png",
+    "static/media/tallinje.png": "/mattenotes/static/media/tallinje.4914d1decd48fe43b94d.png",
+    "static/media/skaffolding.png": "/mattenotes/static/media/skaffolding.105dd63aeab9775bd8d6.png",
+    "static/media/proxdev.png": "/mattenotes/static/media/proxdev.b95cc2b88f100cfb244c.png",
+    "index.html": "/mattenotes/index.html",
+    "main.a2240b97.js.map": "/mattenotes/static/js/main.a2240b97.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a2240b97.js"
+  ]
+}
